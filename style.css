@@ -1,10 +1,10 @@
 body {
-  background-color: #3CB371;
+  background-color: #50295b;
 }
 
 
 header{
- background-color: #3CB371;
+ background-color: #50295b;
  height: 80px;
  font-size: 35pt;
  font-weight: bold;
@@ -24,6 +24,6 @@ p {
 }
 
 footer{
-    background-color: #3CB371;
+    background-color: #50295b;
     height: 80px;
 }
